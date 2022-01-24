@@ -5,3 +5,12 @@
 Launch options:
 
 
+## Scripting notes:
+* It appears that instead of a "config" file, TF2 now uses a userconfig file
+* Binds is where key combos come from. Because it is in crosshairswitcher it isn't ran by TF2, but instead when class files are selected
+
+## Future  work
+* Clean up userconfig.cfg. Probably don't need that many commands ran.
+
+## Sensitivity
+* Setting mouse sense as 2.1 rn
