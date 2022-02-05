@@ -1,6 +1,7 @@
 # tf2-config
 * Cfg files may need to go in a cfg/user folder in Linux
 * All commands: https://steamcommunity.com/sharedfiles/filedetails/?id=566785655
+* * Linux game sens must be halved (?)
 
 Launch options: -fullscreen -w 3840 -h 2160 -console -novid -exec autoexec
 (may need to add a DirectX setting for windows)
