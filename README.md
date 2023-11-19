@@ -2,6 +2,7 @@
 * Cfg files may need to go in a cfg/user folder in Linux
 * All commands: https://steamcommunity.com/sharedfiles/filedetails/?id=566785655
 * * Linux game sens must be halved (?)
+* Use sensitivity 1 with 1200 DPI
 * Update 11/2023 used cfg.tf for most baseline cfgs and network settings. Mastercomfig for graphics, and the old switcher code for the crosshair.
 
 
