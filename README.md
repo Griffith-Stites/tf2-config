@@ -2,6 +2,10 @@
 * Cfg files may need to go in a cfg/user folder in Linux
 * All commands: https://steamcommunity.com/sharedfiles/filedetails/?id=566785655
 * * Linux game sens must be halved (?)
+* Update 11/2023 used cfg.tf for most baseline cfgs and network settings. Mastercomfig for graphics, and the old switcher code for the crosshair.
+
+
+New launch options: -dxlevel 95 -fullscreen -w 3840 -h 2160 -console -novid
 
 Launch options: -fullscreen -w 3840 -h 2160 -console -novid -exec autoexec
 (may need to add a DirectX setting for windows)
