@@ -6,7 +6,7 @@
 * Update 11/2023 used cfg.tf for most baseline cfgs and network settings. Mastercomfig for graphics, and the old switcher code for the crosshair.
 
 
-New launch options: -dxlevel 95 -fullscreen -w 3840 -h 2160 -console -novid
+New launch options: -dxlevel 95 -fullscreen -w 3840 -h 2160 -console -novid -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
 
 Launch options: -fullscreen -w 3840 -h 2160 -console -novid -exec autoexec
 (may need to add a DirectX setting for windows)
